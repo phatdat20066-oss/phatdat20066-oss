@@ -49,7 +49,7 @@
 <h1> 🌌FRAMEWORKS, PLATFORMS & LIBRARIES</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,tensorflow,pytorch,redux,net,nodejs,dotnet,sklearn" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,tensorflow,pytorch,redux,net,nodejs,sklearn" />
   </a>
 </p>
 
