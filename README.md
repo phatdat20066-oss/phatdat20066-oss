@@ -87,7 +87,11 @@
   ![](https://github-readme-stats.vercel.app/api?username=phatdat20066-oss&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phatdat20066-oss&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phatdat20066-oss&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-     
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=phatdat20066-oss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 </div>
