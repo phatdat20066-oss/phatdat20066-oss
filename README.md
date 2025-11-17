@@ -167,8 +167,7 @@
 <img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
 <img align="left" alt="GIF description" src="/Gianguyen1234/Gianguyen1234/raw/main/Skills_Animation_White.gif" style="visibility:visible;max-width:100%;"> 
 <img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" /> 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300">
-<br><br>
+
 <!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) -->
 
 <!-- <a href="https://visitcount.itsvg.in">
